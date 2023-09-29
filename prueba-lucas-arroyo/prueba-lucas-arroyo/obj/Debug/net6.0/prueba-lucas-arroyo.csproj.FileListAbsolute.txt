@@ -1,0 +1,14 @@
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\bin\Debug\net6.0\prueba-lucas-arroyo.exe
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\bin\Debug\net6.0\prueba-lucas-arroyo.deps.json
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\bin\Debug\net6.0\prueba-lucas-arroyo.runtimeconfig.json
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\bin\Debug\net6.0\prueba-lucas-arroyo.dll
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\bin\Debug\net6.0\prueba-lucas-arroyo.pdb
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\prueba-lucas-arroyo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\prueba-lucas-arroyo.AssemblyInfoInputs.cache
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\prueba-lucas-arroyo.AssemblyInfo.cs
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\prueba-lucas-arroyo.csproj.CoreCompileInputs.cache
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\prueba-lucas-arroyo.dll
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\refint\prueba-lucas-arroyo.dll
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\prueba-lucas-arroyo.pdb
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\prueba-lucas-arroyo.genruntimeconfig.cache
+D:\Webs\prueba-nivel-memorandum\prueba-lucas-arroyo\prueba-lucas-arroyo\obj\Debug\net6.0\ref\prueba-lucas-arroyo.dll

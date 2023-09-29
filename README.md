@@ -3,7 +3,7 @@
 ## Ejercicios 1 y 2:
 ### Instrucciones de ejecución
 
-Los dos primeros ejercicios se encuentran en el método Program.cs de la carpeta `prueba-lucas-arroyo`. Para ejecutar la aplicación nos tenemos que asegurar de tener como mínimo la versión net6.0 del sdk instalada en nuestro equipo. Para ello ejecutamos el comando `dotnet --info` en la terminal.
+Los dos primeros ejercicios se encuentran en el método Program.cs de la carpeta `prueba-lucas-arroyo`. Para ejecutar la aplicación nos tenemos que asegurar de tener como mínimo la versión net6.0 del dotnet sdk instalada en nuestro equipo. Para ello ejecutamos el comando `dotnet --info` en la terminal.
 
 Una vez asegurados, nos situamos en el directorio del programa con `cd .\prueba-lucas-arroyo\prueba-lucas-arroyo` y ejecutamos el comando `dotnet run`.
 

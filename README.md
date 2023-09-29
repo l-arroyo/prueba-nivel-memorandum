@@ -8,7 +8,9 @@ Una vez asegurados, nos situamos en el directorio del programa con `cd .\prueba-
 
 ## Aclaraciones
 
-En ambos ejercicios, puedes llamar a los métodos con o sin parámetros, de forma que si no se recibe ningún parámetro, se pedirá al usuario por consola y se validará la entrada de la misma. Por defecto los métodos se llaman sin parámetros, pero se pueden descomentar las líneas en el programa para que se llamen con parámetros:
+En ambos ejercicios, puedes llamar a los métodos con o sin parámetros, de forma que si no se recibe ningún parámetro en la llamada, se pedirán al usuario los datos necesarios por consola y se validará la entrada de los mismos.
+
+Por defecto los métodos se llaman sin parámetros, pero se pueden descomentar las líneas en el programa para que se llamen con parámetros:
 
 ```csharp
     public static void Main(string[] args)
